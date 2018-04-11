@@ -6,6 +6,7 @@
 
 - [标签](#标签)
   - [job](#job)
+  - [terminal](#terminal)
 - [TODO](#todo)
 
 <!-- vim-markdown-toc -->
@@ -16,6 +17,9 @@
 
 - 7.4.1274: 首次在 Unix 系统下引入 `job_start()`, `job_status()` 和 `job_stop()`
 
+### terminal
+
+- 8.0.0693: 引入 `:terminal` 命令
 
 ## TODO
 
