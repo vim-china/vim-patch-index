@@ -7,6 +7,7 @@
 - [标签](#标签)
   - [job](#job)
   - [terminal](#terminal)
+  - [autocmd](#autocmd)
 - [TODO](#todo)
 
 <!-- vim-markdown-toc -->
@@ -20,6 +21,11 @@
 ### terminal
 
 - 8.0.0693: 引入 `:terminal` 命令
+
+### autocmd
+
+- 8.0.1206: 引入`CmdlineEnter` 和 `CmdlineLeave`
+- 7.4.2077: 引入`TabClosed`
 
 ## TODO
 
