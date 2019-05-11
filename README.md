@@ -8,6 +8,7 @@
   - [job](#job)
   - [terminal](#terminal)
   - [autocmd](#autocmd)
+  - [resolve()](#resolve)
 - [TODO](#todo)
 
 <!-- vim-markdown-toc -->
@@ -26,6 +27,12 @@
 
 - 8.0.1206: 引入`CmdlineEnter` 和 `CmdlineLeave`
 - 7.4.2077: 引入`TabClosed`
+
+
+### resolve()
+
+- 8.1.0894: 修复 Windows 系统下 resolve() 无法返回链接所指向的路径
+
 
 ## TODO
 
